@@ -1,0 +1,27 @@
+One piece of advice for fi rst year students:
+The Computer Science major can be challenging and intimidating at fi rst, but never
+give up. Take advantage of the summer internships which will give you hands-on
+experience. That way you will have a better idea of what you would like to do in the
+future (networking, Web development, research, teaching). Also, take advantage
+of on-campus work opportunities at the Help Desk or a multimedia center, creating
+applications for departments and student organizations, or even doing research for a
+professor.
+
+What’s the most interesting project you’ve worked on as a professional?
+I have worked on several interesting projects for diff erent government agencies. One
+of the most recent of these was AEIS (Academic Exchange Information System) at the
+Bureau of Educational and Cultural Aff airs at the Department of State, Washington
+DC. AEIS is Web-based and gathers data received from exchange program agencies
+and institutions. It also provides the means for capturing and modifying as well as
+reporting on program data. I have worked on all aspects of the software development
+life cycle, but the rewarding part at the end of the day is to see the system live and
+working, and to see users happy with it. I have learned to take simple, basic concepts
+that I learned from my computer science courses and use them in learning new
+programming languages, in daily research at work, and in analyzing and problem
+solving.
+
+Where do you see yourself in ten years?
+I see myself a leader in technology, carrying a Master’s degree and contributing my
+abilities in an innovative, challenging, and rewarding environment. I also see myself
+teaching and mentoring new graduates, showing them the path to advancement and
+success.
